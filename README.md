@@ -1,5 +1,26 @@
 # Clasificación de variedades de frijoles a partir de características morfológicas
 
+## Índice
+
+- [Descripción general](#descripción-general)
+- [Objetivos](#objetivos)
+  - [Objetivo general](#objetivo-general)
+  - [Objetivos específicos](#objetivos-específicos)
+- [Dataset](#dataset)
+  - [Variables principales](#variables-principales)
+- [Metodología y modelos implementados](#metodología-y-modelos-implementados)
+  - [Análisis Exploratorio de Datos (EDA)](#1-análisis-exploratorio-de-datos-eda)
+  - [Preprocesamiento](#2-preprocesamiento)
+  - [Agrupamiento Difuso (Fuzzy C-Means)](#3-agrupamiento-difuso-fuzzy-c-means)
+  - [Clasificación Supervisada](#4-clasificación-supervisada)
+  - [Importancia de características](#5-importancia-de-características)
+- [Estructura del repositorio](#estructura-del-repositorio)
+- [Requisitos](#requisitos)
+  - [Instalación de dependencias](#instalación-de-dependencias)
+- [Instrucciones de uso](#instrucciones-de-uso)
+- [Autor](#autor)
+
+
 ## Descripción general
 
 Este proyecto aborda el problema de la **clasificación automática de variedades de frijoles secos** utilizando características morfológicas extraídas de imágenes y técnicas de **aprendizaje automático**.  
