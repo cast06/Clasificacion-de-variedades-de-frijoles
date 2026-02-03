@@ -166,7 +166,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn scikit-fuzzy
 
 1. Clonar el repositorio:
 
-git clone https://github.com/USUARIO/Clasificacion-de-Frijoles.git
+git clone https://github.com/cast06/Clasificacion-de-Frijoles.git
 
 2. Descargar el dataset desde UCI y colocarlo en la carpeta data/.
 
